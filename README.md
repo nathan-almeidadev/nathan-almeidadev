@@ -35,7 +35,7 @@ Atualmente, compartilho todas as minhas evoluções através do meu perfil no Li
 ## 🤖 Linguagens e Tecnologias 
 <br>
 <img 
-    align="Center" 
+    align="left" 
     alt="Python" 
     title="Python"
     width="40px" 
@@ -43,7 +43,7 @@ Atualmente, compartilho todas as minhas evoluções através do meu perfil no Li
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img 
-    align="Center" 
+    align="left" 
     alt="MySQL"
     title="MySQL" 
     width="40px" 
@@ -51,7 +51,7 @@ Atualmente, compartilho todas as minhas evoluções através do meu perfil no Li
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
 <img 
-    align="Center" 
+    align="left" 
     alt="Git" 
     title="Git"
     width="40px" 
@@ -59,7 +59,7 @@ Atualmente, compartilho todas as minhas evoluções através do meu perfil no Li
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 <img 
-    align="Center" 
+    align="left" 
     alt="PostgreSQL" 
     title="PostgreSQL"
     width="40px" 
@@ -67,7 +67,7 @@ Atualmente, compartilho todas as minhas evoluções através do meu perfil no Li
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
 />
 <img 
-    align="Center" 
+    align="left" 
     alt="VSCode" 
     title="VSCode"
     width="40px" 
@@ -75,7 +75,7 @@ Atualmente, compartilho todas as minhas evoluções através do meu perfil no Li
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
 />
 <img 
-    align="Center" 
+    align="left" 
     alt="Windows" 
     title="Windows"
     width="40px" 
@@ -83,7 +83,7 @@ Atualmente, compartilho todas as minhas evoluções através do meu perfil no Li
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" 
 />
 <img 
-    align="Center" 
+    align="left" 
     alt="GitHub" 
     title="GitHub"
     width="40px" 
@@ -91,7 +91,7 @@ Atualmente, compartilho todas as minhas evoluções através do meu perfil no Li
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
 />
 <img 
-    align="Center" 
+    align="left" 
     alt="Ubuntu Linux" 
     title="Ubuntu Linux"
     width="40px" 
