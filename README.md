@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2000&color=F7F7F7&left=true&vCenter=true&repeat=false&width=520&lines=Nathan+Luiz)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=5000&color=ffffff&left=true&vCenter=true&width=520&lines=Aspirante+a+Engenheiro%2FAnalista+de+Dados)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=5000&color=&left=true&vCenter=true&width=520&lines=Aspirante+a+Engenheiro%2FAnalista+de+Dados)](https://git.io/typing-svg)
 
 ## Sobre mim
 Me chamo Nathan Luiz, tenho 18 anos e sou natural de Brasília - DF. Concluí o Ensino Médio na Fundação Bradesco, com Qualificação em Gestão Aplicada e Relações de Trabalho na Era Digital. Atualmente, estou cursando Engenharia de Software no Centro Universitário de Brasília (CEUB). Gosto muito de Tecnologia, e principalmente da área de Dados e Back-End. Busco sempre adquirir e aprimorar meus conhecimentos através de cursos, certificados, laboratórios e projetos práticos. 
@@ -9,7 +9,6 @@ Atualmente, compartilho todas as minhas evoluções através do meu perfil no Li
 <p align="Left">
   </a>
   <a href="https://www.linkedin.com/in/nathan-almeidavieira/"><img width="40px" alt="LinkedIn" title="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/> 
-  &#8287;&#8287;&#8287;&#8287;&#8287;
 
 <p align="Left"> 
     </a> 
