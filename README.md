@@ -1,7 +1,7 @@
-<h1 align="center"> Nathan Luiz Almeida Vieira
+<h1 align="left"> Nathan Luiz Almeida Vieira
 <br>
 
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&color=ffffff&center=true&vCenter=true&width=500&height=40&lines=Estudante+de+Engenharia+de+Software;Aspirante+a+Engenheiro%2FAnalista+de+Dados)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&color=ffffff&left=true&vleft=true&width=500&height=40&lines=Estudante+de+Engenharia+de+Software;Aspirante+a+Engenheiro%2FAnalista+de+Dados)](https://git.io/typing-svg)
 
 
 Me chamo Nathan Luiz, tenho 18 anos e sou natural de Brasília - DF. Concluí o Ensino Médio na Fundação Bradesco, com Qualificação em Gestão Aplicada e Relações de Trabalho na Era Digital. Atualmente, estou cursando Engenharia de Software no Centro Universitário de Brasília (CEUB). Gosto muito de Tecnologia, principalmente da área de Dados e Back-End e estou buscando sempre adquirir e aprimorar meus conhecimentos através de cursos, certificados, laboratórios e projetos práticos. 
