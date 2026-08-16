@@ -1,19 +1,17 @@
-<h1 align="left"> Nathan Luiz Almeida Vieira
-<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2000&color=F7F7F7&center=true&vCenter=true&repeat=false&width=520&lines=Nathan+Luiz)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=ffffff&center=true&vCenter=true&width=520&lines=Aspirante+a+Engenheiro%2FAnalista+de+Dados)](https://git.io/typing-svg)
 
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&color=ffffff&left=true&vleft=true&width=500&height=40&lines=Estudante+de+Engenharia+de+Software;Aspirante+a+Engenheiro%2FAnalista+de+Dados)](https://git.io/typing-svg)
-
-
-Me chamo Nathan Luiz, tenho 18 anos e sou natural de Brasília - DF. Concluí o Ensino Médio na Fundação Bradesco, com Qualificação em Gestão Aplicada e Relações de Trabalho na Era Digital. Atualmente, estou cursando Engenharia de Software no Centro Universitário de Brasília (CEUB). Gosto muito de Tecnologia, principalmente da área de Dados e Back-End e estou buscando sempre adquirir e aprimorar meus conhecimentos através de cursos, certificados, laboratórios e projetos práticos. 
+## Sobre mim
+Me chamo Nathan Luiz, tenho 18 anos e sou natural de Brasília - DF. Concluí o Ensino Médio na Fundação Bradesco, com Qualificação em Gestão Aplicada e Relações de Trabalho na Era Digital. Atualmente, estou cursando Engenharia de Software no Centro Universitário de Brasília (CEUB). Gosto muito de Tecnologia, e principalmente da área de Dados e Back-End. Busco sempre adquirir e aprimorar meus conhecimentos através de cursos, certificados, laboratórios e projetos práticos. 
 
 Atualmente, compartilho todas as minhas evoluções através do meu perfil no LinkedIn: <br> 
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/nathan-almeidavieira/"><img width="40px" alt="LinkedIn" title="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/></a>
+<p align="Left">
+  </a>
+  <a href="https://www.linkedin.com/in/nathan-almeidavieira/"><img width="40px" alt="LinkedIn" title="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/> 
   &#8287;&#8287;&#8287;&#8287;&#8287;
 
-
-<p align="left"> 
+<p align="Left"> 
     </a> 
     <a href="nathan.almeidavieira2007@gmail.com">
         <img 
@@ -22,20 +20,19 @@ Atualmente, compartilho todas as minhas evoluções através do meu perfil no Li
             src="https://custom-icon-badges.demolab.com/badge/-nathan.almeidavieira2007@gmail.com-gray?style=for-the-badge&logo=mention&logoColor=white"
         />
     </a>
-    <a href="https://github.com/nathan-almeidadev?tab=followers">
+    <a href="https://github.com/Larissakich?tab=followers">
         <img 
             alt="Seguidores" 
-            title="Meu Estado" 
+            title="Me siga no GitHub" 
             src="https://custom-icon-badges.demolab.com/badge/Brasília-DF-white?style=for-the-badge&logo=location&logoColor=white"
         />
     </a>
 </p>
 
----
-
-### 🤖 Linguagens e Tecnologias 
 <br>
 
+## 🤖 Linguagens e Tecnologias 
+<br>
 <img 
     align="left" 
     alt="Python" 
@@ -103,3 +100,9 @@ Atualmente, compartilho todas as minhas evoluções através do meu perfil no Li
 
 <br>
 <br>
+<br>
+<br>
+
+## 📊 Estatísticas
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=nathan-almeidadev&theme=dark&locale=pt_BR)](https://git.io/streak-stats)
