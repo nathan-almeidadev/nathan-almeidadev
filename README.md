@@ -35,6 +35,7 @@ Atualmente, compartilho todas as minhas evoluções através do meu perfil no Li
 
 ### 🤖 Linguagens e Tecnologias 
 <br>
+
 <img 
     align="left" 
     alt="Python" 
