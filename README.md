@@ -8,12 +8,12 @@ Me chamo Nathan Luiz, tenho 18 anos e sou natural de Brasília - DF. Concluí o 
 
 Atualmente, compartilho todas as minhas evoluções através do meu perfil no LinkedIn: <br> 
 
-<p align="Center">
+<p align="left">
   <a href="https://www.linkedin.com/in/nathan-almeidavieira/"><img width="40px" alt="LinkedIn" title="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 
 
-<p align="Center"> 
+<p align="left"> 
     </a> 
     <a href="nathan.almeidavieira2007@gmail.com">
         <img 
@@ -22,10 +22,10 @@ Atualmente, compartilho todas as minhas evoluções através do meu perfil no Li
             src="https://custom-icon-badges.demolab.com/badge/-nathan.almeidavieira2007@gmail.com-gray?style=for-the-badge&logo=mention&logoColor=white"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/nathan-almeidadev?tab=followers">
         <img 
             alt="Seguidores" 
-            title="Me siga no GitHub" 
+            title="Meu Estado" 
             src="https://custom-icon-badges.demolab.com/badge/Brasília-DF-white?style=for-the-badge&logo=location&logoColor=white"
         />
     </a>
