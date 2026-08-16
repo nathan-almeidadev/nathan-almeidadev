@@ -99,6 +99,7 @@ Atualmente, compartilho todas as minhas evoluções através do meu perfil no Li
     width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg"
-<br/>
-<br/>
+/>
+
+<br>
 <br>
