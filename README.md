@@ -4,12 +4,14 @@
 ## Sobre mim
 Me chamo Nathan Luiz, tenho 18 anos e sou natural de Brasília - DF. Concluí o Ensino Médio na Fundação Bradesco, com Qualificação em Gestão Aplicada e Relações de Trabalho na Era Digital. Atualmente, estou cursando Engenharia de Software no Centro Universitário de Brasília (CEUB). Gosto muito de Tecnologia, e principalmente da área de Dados e Back-End. Busco sempre adquirir e aprimorar meus conhecimentos através de cursos, certificados, laboratórios e projetos práticos. 
 
-Atualmente, compartilho todas as minhas evoluções através do meu perfil no LinkedIn: <br> 
+Atualmente, compartilho todas as minhas evoluções através do meu perfil no LinkedIn: <br> <br>
 
 <p align="Left">
   </a>
   <a href="https://www.linkedin.com/in/nathan-almeidavieira/"><img width="40px" alt="LinkedIn" title="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/> 
-
+    
+<br>
+    
 <p align="Left"> 
     </a> 
     <a href="nathan.almeidavieira2007@gmail.com">
