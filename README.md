@@ -106,4 +106,4 @@ Atualmente, compartilho todas as minhas evoluções através do meu perfil no Li
 
 ## 📊 Estatísticas
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=nathan-almeidadev&theme=dark&locale=pt_BR&timezone=Bras%C3%ADlia)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=nathan-almeidadev&theme=dark&locale=pt_BR&timezone=3)](https://git.io/streak-stats)
