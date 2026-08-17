@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=50&pause=1000&color=F7F7F7&left=true&vCenter=true&width=435&lines=Nathan+Luiz)](https://git.io/typing-svg)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=+Code&pause=5000&color=&left=true&vCenter=true&width=520&lines=Aspirante+a+Engenheiro%2FAnalista+de+Dados)](https://git.io/typing-svg)
 
 ## Sobre mim
