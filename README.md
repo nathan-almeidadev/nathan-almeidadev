@@ -34,7 +34,9 @@ Atualmente, compartilho todas as minhas evoluções através do meu perfil no Li
 <br>
 
 ## 🤖 Linguagens e Tecnologias 
+
 <br>
+
 <img 
     align="left" 
     alt="Python" 
@@ -42,6 +44,22 @@ Atualmente, compartilho todas as minhas evoluções através do meu perfil no Li
     width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Pandas" 
+    title="Pandas"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Docker" 
+    title="Docker"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
 />
 <img 
     align="left" 
