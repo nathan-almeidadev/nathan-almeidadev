@@ -63,14 +63,6 @@ Atualmente, compartilho todas as minhas evoluções através do meu perfil no Li
 />
 <img 
     align="left" 
-    alt="MySQL"
-    title="MySQL" 
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Git" 
     title="Git"
     width="40px" 
