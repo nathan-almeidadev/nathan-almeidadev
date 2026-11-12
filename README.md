@@ -79,14 +79,6 @@ Atualmente, compartilho todas as minhas evoluções através do meu perfil no Li
 />
 <img 
     align="left" 
-    alt="VSCode" 
-    title="VSCode"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Windows" 
     title="Windows"
     width="40px" 
@@ -95,19 +87,11 @@ Atualmente, compartilho todas as minhas evoluções através do meu perfil no Li
 />
 <img 
     align="left" 
-    alt="GitHub" 
-    title="GitHub"
+    alt="Linux" 
+    title="Linux"
     width="40px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Ubuntu Linux" 
-    title="Ubuntu Linux"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
 />
 
 <br>
